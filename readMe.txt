@@ -19,3 +19,9 @@ Problem 4: Queue using Array
 
 ==================================================================================================================
 
+Day 3:
+Problem 1: Re arrange elements and Maximum the sum in the array 
+Problem 2: Remove duplicate characters in a array
+Problem 3: Merge two strings alternatively starting with string 1
+Problem 4: Reverse vowels in String
+
