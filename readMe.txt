@@ -32,5 +32,11 @@ Problem 1: Kids With Maximum Candies
 Problem 2: Can Place Flowers alternatively
 
 ==================================================================================================================
+Day 5:
+Problem 1: Is string 1 subsequence of string 2(isSubsequence)
+Problem 2: Reverse words in a string
+
+==================================================================================================================
+
 
 
