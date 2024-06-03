@@ -25,3 +25,12 @@ Problem 2: Remove duplicate characters in a array
 Problem 3: Merge two strings alternatively starting with string 1
 Problem 4: Reverse vowels in String
 
+==================================================================================================================
+
+Day 4:
+Problem 1: Kids With Maximum Candies
+Problem 2: Can Place Flowers alternatively
+
+==================================================================================================================
+
+
